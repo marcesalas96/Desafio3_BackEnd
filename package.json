@@ -2,9 +2,9 @@
   "name": "desafio3",
   "version": "1.0.0",
   "description": "",
-  "main": "servidor.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon ./servidor.js"
+    "start": "nodemon ./server.js"
   },
   "author": "",
   "license": "ISC",
